@@ -161,8 +161,26 @@ iframe {
 /* Footer */
 footer {
   margin-top: 48px;
+  background-color: lightslategrey;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .footer-content {
+  color: whitesmoke;
+}
+/* reviews */
+
+.Reviews {
+  color: #ff3d8e;
+  margin-bottom: 120px;
+}
+
+.reviewer {
+  color: #fe9a4d;
+}
+
+.testimonials p {
   color: #7b2b8c;
+  margin: 10px 40px;
 }
